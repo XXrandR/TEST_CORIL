@@ -1,0 +1,48 @@
+#VITE
+frontend_src/node_modules
+frontend_src/.pnp
+frontend_src/.pnp.js
+frontend_src/# Testing
+frontend_src/coverage
+frontend_src/dist
+frontend_src/dist-ssr
+frontend_src/.vite/
+frontend_src/*.local
+frontend_src/.idea/
+frontend_src/.vscode/
+frontend_src/*.iml
+frontend_src/.DS_Store
+frontend_src/*.log
+frontend_src/npm-debug.log*
+frontend_src/yarn-debug.log*
+frontend_src/yarn-error.log*
+
+### Java ###
+backend_src/*.class
+backend_src/# Log file
+backend_src/*.log
+backend_src/# BlueJ files
+backend_src/*.ctxt
+backend_src/.mtj.tmp/
+backend_src/*.jar
+backend_src/*.war
+backend_src/*.nar
+backend_src/*.ear
+backend_src/*.zip
+backend_src/*.tar.gz
+backend_src/*.rar
+backend_src/hs_err_pid*
+backend_src/replay_pid*
+backend_src/target/
+backend_src/pom.xml.tag
+backend_src/pom.xml.releaseBackup
+backend_src/pom.xml.versionsBackup
+backend_src/pom.xml.next
+backend_src/release.properties
+backend_src/dependency-reduced-pom.xml
+backend_src/buildNumber.properties
+backend_src/.mvn/timing.properties
+backend_src/.mvn/wrapper/maven-wrapper.jar
+backend_src/.project
+backend_src/.classpath
+
